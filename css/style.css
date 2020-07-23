@@ -603,24 +603,22 @@ nav#footer{
 #footer a:hover{
 	color: #3282b8;}
 
-
-
-	#headerPopup{
+#headerPopup{
 		width:75%;
 		margin:0 auto;
 	  }
 	  
-	  #headerPopup iframe{
+#headerPopup iframe{
 		width:100%;
 		margin:0 auto;
 	  }
 
 .logo{
-	width: 30%; 
+	width: 16em; 
 	margin: auto;
 }
 
 .lg{
-	width: 100%; 
+	width: 19rem; 
 	margin: auto;
 }
